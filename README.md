@@ -3,8 +3,7 @@
 Users can create and join chat rooms using the web chat application, which is built on Django. The programme allows two different sorts of rooms: password-protected private rooms and open, public rooms that anybody can enter. To use the app, users must provide their login and email address. The Django email library is also used by the app to let owners email invitations to other users.
 ****Project Details****
 a. Project Name: Django Web Chat Appb. Project Version: 1.0
-c. Project Author: [M.Lakshmi Jotsna , B.Raj Kishore, T.Amrutha Varshini]
-d. Date: [27-06-2023]
+c. Project Author: Akula sahith
 ****Technologies Used****
 a. Django Framework:
 Version: 4.1.7
